@@ -19,3 +19,6 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=manikiran231&layout=compact&theme=radical" alt="Top Languages" width="48%" />
 </p>
+
+
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=manikiran231&label=Profile%20views&color=0e75b6&style=flat" alt="manikiran231" /> </p>
